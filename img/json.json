@@ -1,0 +1,11 @@
+{
+  "firstName": "BoB",
+  "lastName": "BoB",
+  "age": 22,
+  "phoneNumbers": [
+    {
+      "type": "redmi",
+      "number": "13111262928"
+    }
+  ]
+}
